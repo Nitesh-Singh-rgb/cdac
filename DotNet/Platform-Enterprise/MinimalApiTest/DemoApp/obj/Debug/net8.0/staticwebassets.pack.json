@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/common.css",
+      "PackagePath": "staticwebassets/common.css"
+    },
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/crosscheck.html",
+      "PackagePath": "staticwebassets/crosscheck.html"
+    },
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/index.js",
+      "PackagePath": "staticwebassets/index.js"
+    },
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/scripts/babel.min.js",
+      "PackagePath": "staticwebassets/scripts/babel.min.js"
+    },
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/scripts/react-dom.development.js",
+      "PackagePath": "staticwebassets/scripts/react-dom.development.js"
+    },
+    {
+      "Id": "/home/cdac/Samples/DotNet/Platform-Enterprise/MinimalApiTest/DemoApp/wwwroot/scripts/react.development.js",
+      "PackagePath": "staticwebassets/scripts/react.development.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DemoApp.props",
+      "PackagePath": "build\\DemoApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DemoApp.props",
+      "PackagePath": "buildMultiTargeting\\DemoApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DemoApp.props",
+      "PackagePath": "buildTransitive\\DemoApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
